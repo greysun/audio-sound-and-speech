@@ -58,6 +58,8 @@ https://github.com/znichols/racKet
 https://github.com/justinsalamon/UrbanSound8K-JAMS
 http://bmcfee.github.io/papers/scipy2015_librosa.pdf
 
+https://github.com/andabi/voice-vector  A deep neural network for finding text-independent speaker embedding written in tensorflow and tensorpack
+
 
 
 # Documents
