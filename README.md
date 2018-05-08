@@ -109,3 +109,9 @@ https://zhuanlan.zhihu.com/p/33144046
 https://ccrma.stanford.edu/~jos/filters/
 https://zhuanlan.zhihu.com/p/28848339
 
+https://blog.csdn.net/yutianzuijin/article/details/21446401 音乐检索简介
+https://max.book118.com/html/2017/0221/92851570.shtm  基于内容的音频信息检索
+https://github.com/musescore/MuseScore MuseScore is an open source and free music notation software.  
+
+
+
