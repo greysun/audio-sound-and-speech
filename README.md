@@ -60,6 +60,14 @@ http://bmcfee.github.io/papers/scipy2015_librosa.pdf
 
 https://github.com/andabi/voice-vector  A deep neural network for finding text-independent speaker embedding written in tensorflow and tensorpack
 
+musical fingerprinting systems:
+
+https://github.com/echonest/echoprint-server  Server components for Echoprint
+https://github.com/beetbox/pyacoustid Python bindings for Chromaprint acoustic fingerprinting and the Acoustid Web service
+https://acoustid.org AcoustID is a project providing complete audio identification service, based entirely on open source software.
+https://labrosa.ee.columbia.edu/matlab/audfprint/ audfprint is a (compiled) Matlab script that can take a list of soundfiles and create a database of landmarks, and then subsequently take one or more query audio files and match them against the previously-created database.
+
+
 
 
 # Documents
