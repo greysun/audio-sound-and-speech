@@ -67,6 +67,8 @@ https://github.com/beetbox/pyacoustid Python bindings for Chromaprint acoustic f
 https://acoustid.org AcoustID is a project providing complete audio identification service, based entirely on open source software.
 https://labrosa.ee.columbia.edu/matlab/audfprint/ audfprint is a (compiled) Matlab script that can take a list of soundfiles and create a database of landmarks, and then subsequently take one or more query audio files and match them against the previously-created database.
 
+https://github.com/dpwe/audfprint Landmark-based audio fingerprinting
+
 
 
 
