@@ -124,6 +124,7 @@ with Python and Numpy
 
 https://www.zhihu.com/question/265066896/answer/291395259  https://www.zhihu.com/question/265209086/answer/301313983 语音识别方面的比赛有哪些？
 
+https://blog.naaln.com/2013/08/music-algorithm-for-fingerprint-framework/ 音乐指纹 - 算法的框架
 
 
 
