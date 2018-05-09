@@ -122,5 +122,10 @@ https://github.com/musescore/MuseScore MuseScore is an open source and free musi
 http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/  Audio Fingerprinting
 with Python and Numpy
 
+https://www.zhihu.com/question/265066896/answer/291395259  https://www.zhihu.com/question/265209086/answer/301313983 语音识别方面的比赛有哪些？
+
+
+
+
 
 
