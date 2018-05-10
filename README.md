@@ -21,6 +21,9 @@ https://arxiv.org/abs/1609.06026v3
 http://karol.piczak.com/papers/Piczak2015-ESC-ConvNet.pdf
 https://arxiv.org/pdf/1609.05234.pdf(https://github.com/spragunr/deep_q_rl)
 
+https://vijaychan.github.io/Publications/2011%20-%20Survey%20and%20evaluation%20of%20audio%20fingerprinting%20schemes%20for%20mobile%20audio%20search.pdf  SURVEY AND EVALUATION OF AUDIO FINGERPRINTING SCHEMES FOR MOBILE QUERY-BY-EXAMPLE APPLICATIONS
+
+
 
 # Tools and code
 https://github.com/dake/openVP 声纹识别
@@ -71,9 +74,7 @@ https://github.com/dpwe/audfprint Landmark-based audio fingerprinting
 
 https://github.com/spotify/echoprint-server Server for the Echoprint audio fingerprint system
 https://github.com/worldveil/dejavu Audio fingerprinting and recognition in Python
-
-
-
+https://github.com/jameslyons/python_speech_features  This library provides common speech features for ASR including MFCCs and filterbank energies.
 
 
 # Documents
