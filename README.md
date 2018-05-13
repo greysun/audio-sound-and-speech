@@ -127,6 +127,10 @@ https://www.zhihu.com/question/265066896/answer/291395259  https://www.zhihu.com
 
 https://blog.naaln.com/2013/08/music-algorithm-for-fingerprint-framework/ 音乐指纹 - 算法的框架
 
+https://github.com/ybayle/awesome-deep-learning-music  List of articles related to deep learning applied to music
+
+
+
 
 
 
