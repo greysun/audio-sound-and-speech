@@ -85,6 +85,10 @@ https://github.com/jameslyons/python_speech_features  This library provides comm
 
 # Documents
 
+https://mp.weixin.qq.com/s?__biz=MzU2OTA0NzE2NA==&mid=2247501030&idx=1&sn=31fe4c7f596e377afc3a473bbffc84e2&chksm=fc8625f5cbf1ace38f098b1e3d641a66a9618926ffe4a3c11abf549ddf95aeb25b5f99e261bb&mpshare=1&scene=24&srcid=110566sXYXbPEX9X6HQqQvYV#rd 语音识别领域最全入门资料、论文、代码、产品大合集！包括语音识别，语音合成，声纹识别等内容，一文在手，带你走进语音识别的世界。
+
+
+
 https://www.zhihu.com/question/53707809/answer/181292755
 https://zhuanlan.zhihu.com/p/24362279
 https://www.zhihu.com/question/21505605
