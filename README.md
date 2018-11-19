@@ -3,6 +3,10 @@ repository  of audio,sound and speech related paper ,tools and docs
 
 
 # Papers
+
+https://github.com/google/uis-rnn  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. https://arxiv.org/abs/1810.04719 
+
+
 https://github.com/philipperemy/deep-speaker
 
 https://github.com/qqueing/DeepSpeaker-pytorch
@@ -26,6 +30,8 @@ https://vijaychan.github.io/Publications/2011%20-%20Survey%20and%20evaluation%20
 
 
 # Tools and code
+https://github.com/google/uis-rnn  This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. https://arxiv.org/abs/1810.04719
+
 https://github.com/dake/openVP 声纹识别
 
 https://github.com/tensorflow/models/tree/master/research/audioset CNN Architectures for Large-Scale Audio Classification
